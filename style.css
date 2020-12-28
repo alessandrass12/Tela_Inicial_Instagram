@@ -42,7 +42,7 @@ body {
     justify-content: space-around; 
     flex-direction: column;
     width: 50%;
-    min-height: 30rem;
+    min-height: 31rem;
 }
 
 .group {
@@ -61,7 +61,7 @@ body {
 }
 
 .instagram-logo {
-    height: 3.5rem;
+    height: 4.2rem;
 }
 
 .profile-photo {
@@ -73,7 +73,7 @@ body {
 }
 
 .profile-photo img {
-    height: 6rem;
+    height: 6.2 rem;
 }
 
 .instagram-login {
